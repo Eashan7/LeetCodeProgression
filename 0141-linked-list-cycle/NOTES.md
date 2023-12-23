@@ -1,1 +1,1 @@
-​
+Algorithm - 'Tortoise and Hare' approach - Two pointers maintained - 'Slow' pointer moves one position at a time, 'fast' pointer moves two positions at a time. Eventually they meet, if list is cyclic.​
